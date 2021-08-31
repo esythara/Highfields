@@ -1,0 +1,333 @@
+     /* Main body */
+
+        #hero {
+            
+            background-image: url('5901_Highfields_IMG_00_0000.jpeg');
+            background-size: cover;
+            height: 750px;
+            padding-top: 0px;
+            margin-top: 0px !important;
+        }
+
+        #Exception {
+            
+            color: white;
+            font-size: 115px;
+        }
+        
+        #main-text {
+            
+            color: white;
+            margin-top: 180px;
+            
+            
+        }
+        
+        #entire-body-text {
+            
+            width: 1600px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 15px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            
+            
+        }
+
+        /* End of main body, start of nav bar */
+        
+        
+        #nav li {
+            
+            margin-top: 35px;
+            margin-left: 21px;
+            margin-right: 10px;
+            text-decoration: none;
+            color: darkslateblue;
+            
+        }
+        
+        .nav-link {
+            
+            color: rgb(22, 55, 92) !important;
+            
+        }
+        
+        #phone {
+            
+            margin-left: 400px;
+            
+        }
+        
+        #email {
+            
+            border: 2px solid rgb(188, 163, 121);
+            
+        }
+
+        /* End of nav bar and start of body text, pastures new section */
+
+        #four {
+            
+            color: rgb(22, 55, 92);
+            text-decoration: none;
+            
+        }
+        
+        #four ul {
+            
+            list-style-type: none;
+            
+        }
+        
+        #six, #sixh {
+            
+            color: rgb(22, 55, 92);
+            
+        }
+        
+        
+        #status {
+            
+            margin-left: 145px;
+            
+        }
+        
+        #area {
+            
+            margin-left: 154px;
+            
+        }
+        
+        #location {
+            
+            margin-left: 125px;
+            
+        }
+        
+        #Houses {
+            
+            margin-left: 135px;
+            
+        }
+        
+        #Size {
+            
+            margin-left: 150px;
+            
+        }
+        
+        #PR {
+            
+            margin-left: 100px;
+        }
+
+        /* End of pastures new section */
+
+        /* Start of specifications of ground floor */
+        
+        #Kitchen-section ul li {
+    
+            list-style-type: none;
+            text-decoration: none;
+            color: rgb(22, 55, 92);
+            margin-left: -30px;
+            
+        }
+
+        #Kitchen {
+    
+            margin-left: 98px;
+    
+        }
+
+        #Dinning {
+    
+            margin-left: 45px;
+            
+        }
+        
+        #Living {
+    
+            margin-left: 60px;
+    
+        }
+
+        
+        #Utility {
+    
+            margin-left: 107px;
+    
+        }
+
+        #Wash {
+    
+            margin-left: 119px;
+    
+        }
+
+        #Garage {
+    
+            margin-left: 100px;
+        }
+
+        /* End of specifications of ground floor */
+
+        /* General edits for the page */
+
+        p {
+            
+            color: rgb(22, 55, 92);
+            font-weight: bold;
+        }
+        
+        h1, h2, h3, h4, h5 {
+            
+            color: rgb(22, 55, 92);
+        }
+
+        .button {
+            
+            border: none;
+            background-color: rgb(188, 163, 121);
+            color: white;
+            padding: 15px 32px;
+            border-radius: 5%;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            cursor: pointer;
+            transition: all 0.2s;
+            
+        }
+
+        .button:hover {
+    
+            color: #fff;
+            background-color: rgb(150, 129, 96);
+    
+}           
+
+        /* Drop downs for specifications section */
+
+        .accordion-header {
+            
+            color: #39548e;
+            
+        }
+
+        #Accordions {
+            
+            color: rgb(22, 55, 92) !important;
+            font-weight: bold;
+            
+        }
+
+        
+        #slider, #slider-two, #slider-three {
+            
+            position: relative;
+            width: 400px;
+            height: 300px;
+            
+            overflow: hidden;
+            box-shadow: 0 0 9px rgb(0, 0, 0, 0.3);
+            
+        }
+        
+        #slider img {
+            
+            width: 400px;
+            height: 400px;
+            
+        }
+        
+        #slider-two img {
+            
+            width: 400px;
+            height: 300px;
+                
+        }
+        
+        #slider-three img {
+            
+            width: 400px;
+            height: 300px;
+            
+        }
+
+        /* End of specifications section */
+
+        /* Contact Us section */
+
+
+        #Map {
+    
+            height: 450px;
+            width: 1602px;
+            position: relative;
+            margin-left: -76px;
+    
+        }
+
+        .forum {
+            
+            width: 150px;
+            height: 50px;
+            box-sizing: content-box;
+            border: none;
+            background-color: rgb(242, 239, 239);
+            padding-left: 20px;
+            
+            
+        }
+        
+        #row-two {
+           
+            padding-bottom: 10px;
+            
+        }
+
+        /* End of Contact Us section */
+
+        /* Footer slash end of the code */
+
+        #download {
+            
+            border-bottom: 2px solid rgb(22, 55, 92);
+            padding-bottom: 6px;
+            width: 150px;
+            
+        }
+
+        #ending {
+            
+            background-color: rgb(244, 242, 242);
+            position: relative;
+            margin-left: -152px;
+            width: 1602px;
+            height: auto;
+            box-shadow: 0 0 3px rgb(0, 0, 0, 0.3);
+            
+            
+        }
+
+        /* This is the terms and conditions */
+        
+        #left-end {
+            
+            display: inline-block;
+            margin-left: 20px;
+            margin-right: 1100px;
+            
+        }
+        
+        #right-end {
+        
+            display: inline-block;
+            
+        }
+    
+        /* End */
+    
+        
